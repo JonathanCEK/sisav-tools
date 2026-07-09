@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "SAV Auto Notas",
+  "version": "1.0",
+  "description": "Automatiza o lançamento de notas no sistema SAV da universidade.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://npd.uem.br/*"
+  ]
+}
