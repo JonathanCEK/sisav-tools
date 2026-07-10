@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SAV Auto Notas",
-  "version": "1.0",
-  "description": "Automatiza o lançamento de notas no sistema SAV da universidade.",
+  "name": "SISAV Tools",
+  "version": "2.0",
+  "description": "Automatiza o lançamento de notas e flatas no sistema SISAV da Universidade Estadual de Maringá.",
   "permissions": [
     "activeTab",
     "scripting"
